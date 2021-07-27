@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/jarfolder/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/WebDrivermanager/webdrivermanager-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/jar_files (1)/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/jar_files (1)/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/jar_files (1)/guice-4.1.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/jar_files (1)/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/jar_files (1)/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/jar_files (1)/snakeyaml-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/jar_files (1)/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/jarfolder/poi jars/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

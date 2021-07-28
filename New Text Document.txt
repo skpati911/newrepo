@@ -32,7 +32,7 @@ Git and GitHub
     3.Commiting the code
         1.git commit -m "first commit"
    8.Giving the address of GitHub where we need to push the local repository code
-       1.git remote add origin git@github.com:arunmotoori/GDR.git
+       1.git remote add origin git@github.com:arunmotoori/GDR.git.
        2.We can find this command ready for us in the GitHub page
    9.Push the code to GitHub
      1.git push origin main
